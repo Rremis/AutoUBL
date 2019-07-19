@@ -1,0 +1,6 @@
+name: AutoUBL
+main: fr.rremis.autoubl.AutoUBL
+version: 1.0
+author: Rremis
+commands:
+  ubl:
